@@ -1,0 +1,19 @@
+{
+            "project": {
+                        "name": "<name>",
+                        "url": "<base_url>",
+                        "email": "<email>",
+                        "headers": {
+                                    "Content-Type": "application/json"
+                        },
+                        "auth_headers": {
+                                    "X-Api-Key": "<key>",
+                                    "Authorization": "<token>"
+                        },
+                        "env": {
+                                    "http_proxy": "my-proxy.com:9443",
+                                    "https_proxy": "my-proxy.com:9443",
+                                    "no_proxy": "my-domain.com"
+                        }
+            }
+}

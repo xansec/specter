@@ -1,0 +1,8 @@
+{
+            "mayhem": {
+                        "url": "https://app.mayhem.security",
+                        "username": "<username>",
+                        "email": "<email>",
+                        "token": "<token>"
+            }
+}
